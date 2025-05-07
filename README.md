@@ -54,7 +54,7 @@ Je suis un développeur français, actuellement en **Master MIAGE** (Méthodes I
 ## 🏆 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LimpalaerCyril&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LimpalaerCyril&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ## 🤝 Me contacter
