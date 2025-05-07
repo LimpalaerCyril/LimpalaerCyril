@@ -14,7 +14,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis un développeur français, actuellement en **Master MIAGE** (Méthodes Informatiques Appliquées à la Gestion des Entreprises) en alternance chez **4D**. Mon quotidien : concevoir des composants low‑code, contribuer à l’écosystème 4D, et transformer des idées en applications web performantes.
+Je suis un développeur français, actuellement en **Master MIAGE** (Méthodes Informatiques Appliquées à la Gestion des Entreprises) en alternance chez **4D**. Mon quotidien : transformer des idées en applications web performantes.
 
 * 🏢 **Entreprise :** 4D / Qodly (développeur alternant)
 * 🎓 **Formation :** Master MIAGE (UPJV) – 2023‑2025
